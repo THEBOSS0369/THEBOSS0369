@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m Anuj aka THEBOSS0369<br>👯 I’m looking to collaborate on Web and AI Projects<br>🤝 I’m looking for help with Backend in Next JS<br>🌱 I’m currently learning Full Stack in Next Js<br>💬 Ask me about Anything, I would love to Answer That<br>⚡ Fun fact I AIN'T HUMAN 🤖🤖🤖
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/37322fd9-78cd-4ca1-b040-56747ecbb9d4)
-">
+<img align="right" alt="coding"  src="![image](https://github.com/user-attachments/assets/4dfe6aad-53e7-4fc6-b91b-b3302c83ba3d)">
 
 
 ## 🌐 Socials:
