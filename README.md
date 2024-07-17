@@ -1,5 +1,5 @@
-K# 💫 About Me:
-<img align="right" alt="coding"  src="[[https://i.redd.it/n8agw6z2smyb1.gif](https://i.gifer.com/DYBh.gif)](https://i.gifer.com/DYBh.gif)">
+💫 About Me:
+<img align="right" alt="coding"  src="https://i.gifer.com/DYBh.gif">
 🔭 I’m Anuj aka THEBOSS0369<br>👯 I’m looking to collaborate on Web and AI Projects<br>🤝 I’m looking for help with Backend in Next JS<br>🌱 I’m currently learning Full Stack in Next Js<br>💬 Ask me about Anything, I would love to Answer That<br>⚡ Fun fact I AIN'T HUMAN 🤖🤖🤖
 
 <img align="right" alt="coding"  src="https://i.redd.it/n8agw6z2smyb1.gif">
