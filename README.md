@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=THEBOSS0369&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THEBOSS0369&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=THEBOSS0369&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=THEBOSS0369&icon=2&color=3)](https://visitcount.itsvg.in)
