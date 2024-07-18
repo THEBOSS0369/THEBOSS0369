@@ -1,5 +1,5 @@
 💫 About Me:
-<img alt="pikachu" align="right" src="https://i.pinimg.com/originals/16/d3/2e/16d32e6bbc6ddb8bb084fcc767a22acf.gif" >
+<img wdith="200" alt="pikachu" align="right" src="https://i.pinimg.com/originals/16/d3/2e/16d32e6bbc6ddb8bb084fcc767a22acf.gif" >
 🔭 I’m Anuj aka THEBOSS0369<br>👯 I’m looking to collaborate on Web and AI Projects<br>🤝 I’m looking for help with Backend in Next JS<br>🌱 I’m currently learning Full Stack in Next Js<br>💬 Ask me about Anything, I would love to Answer That<br>⚡ Fun fact I AIN'T HUMAN 🤖🤖🤖
 
 
