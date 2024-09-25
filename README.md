@@ -3,7 +3,6 @@
 <br>
 🔭 I’m Anuj aka THEBOSS0369<br>👯 I’m looking to collaborate on Web and AI Projects<br>🤝 I’m looking for help with Projects in AI<br>🌱 I’m currently learning Full Stack and Machine Learning<br>💬 Ask me about Anything, I would love to Answer That<br>⚡ Fun fact I AIN'T HUMAN 🤖🤖🤖
 
-
 <img align="right" alt="coding"  src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 ## 🌐 Socials:
