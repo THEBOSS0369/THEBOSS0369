@@ -5,7 +5,6 @@
 
 <img align="right" alt="coding"  src="https://i.redd.it/n8agw6z2smyb1.gif">
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-kumar-sharma-59330a287/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnujS21202) 
 
