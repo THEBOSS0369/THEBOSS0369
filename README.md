@@ -1,4 +1,4 @@
-[💫 About Me:
+💫 About Me:
 <img width="300" alt="pikachu" align="right" src="https://i.pinimg.com/originals/16/d3/2e/16d32e6bbc6ddb8bb084fcc767a22acf.gif" >
 <br>
 🔭 I’m Anuj aka THEBOSS0369<br>👯 I’m looking to collaborate on Web and AI Projects<br>🤝 I’m looking for help with Projects in AI<br>🌱 I’m currently learning Full Stack and Machine Learning<br>💬 Ask me about Anything, I would love to Answer That<br>⚡ Fun fact I AIN'T HUMAN. 🤖🤖🤖
@@ -18,4 +18,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=THEBOSS0369&icon=2&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=THEBOSS0369&label=Profile%20Views&color=3&icon=2&pretty=false)
