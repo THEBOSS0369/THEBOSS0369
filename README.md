@@ -18,5 +18,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=THEBOSS0369&icon=2&color=3)](https://visitcount.itsvg.in)
+[!][](https://visitcount.itsvg.in/api?id=THEBOSS0369&icon=2&color=3)](https://visitcount.itsvg.in)
 
