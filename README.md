@@ -17,6 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THEBOSS0369&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=THEBOSS0369&color=blueviolet)
-![](https://visitcount.itsvg.in/api?id=THEBOSS0369&label=Profile%20Views&color=3&icon=2&pretty=false)
+![View](https://visitcount.itsvg.in/api?id=THEBOSS0369&label=Profile%20Views&color=3&icon=2&pretty=false)
 ---
 ![](https://visitcount.itsvg.in/api?id=THEBOSS0369&label=Profile%20Views&color=3&icon=2&pretty=false)
